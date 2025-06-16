@@ -11,8 +11,8 @@ st.set_page_config(
 st.title("桌遊《拾緣：紅包裡的約定》")
 st.subheader("一款關於台灣冥婚習俗的合作敘事遊戲")
 
-# --- 遊戲封面美術 (請將 'https://i.ibb.co/VYkPW435/unnamed.png' 換成您的圖片路徑或網址) ---
-st.image('https://i.ibb.co/VYkPW435/unnamed.png', caption='《拾緣》遊戲封面美術示意圖')
+# --- 遊戲封面美術 (請將 'https://i.meee.com.tw/QwGBRxV.png' 換成您的圖片路徑或網址) ---
+st.image('https://i.meee.com.tw/QwGBRxV.png', caption='《拾緣》遊戲封面美術示意圖')
 
 
 
